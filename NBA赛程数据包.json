@@ -1,0 +1,3313 @@
+{
+ "type": "hooplab-pack",
+ "generatedAt": "2026-11-08 11:10",
+ "note": "ESPN真实NBA赛程数据包（含独赢/让分/大小分/每节盘）",
+ "games": [
+  {
+   "id": "e401909945",
+   "espnId": "401909945",
+   "tipoff": "2026-11-08T20:30Z",
+   "homeAb": "CHI",
+   "awayAb": "PHI",
+   "homeName": "Chicago Bulls",
+   "awayName": "Philadelphia 76ers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 3.84,
+     "away": 1.28,
+     "sys": false
+    },
+    "spread": {
+     "line": 8.5,
+     "homeOdds": 1.94,
+     "awayOdds": 1.88,
+     "sys": false
+    },
+    "total": {
+     "line": 238.5,
+     "over": 1.93,
+     "under": 1.88,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909946",
+   "espnId": "401909946",
+   "tipoff": "2026-11-08T23:00Z",
+   "homeAb": "DET",
+   "awayAb": "LAL",
+   "homeName": "Detroit Pistons",
+   "awayName": "Los Angeles Lakers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.54,
+     "away": 2.55,
+     "sys": false
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.91,
+     "awayOdds": 1.91,
+     "sys": false
+    },
+    "total": {
+     "line": 222.5,
+     "over": 1.94,
+     "under": 1.88,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909947",
+   "espnId": "401909947",
+   "tipoff": "2026-11-09T00:00Z",
+   "homeAb": "MIN",
+   "awayAb": "UTAH",
+   "homeName": "Minnesota Timberwolves",
+   "awayName": "Utah Jazz",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.18,
+     "away": 5.26,
+     "sys": false
+    },
+    "spread": {
+     "line": -11.5,
+     "homeOdds": 1.88,
+     "awayOdds": 1.94,
+     "sys": false
+    },
+    "total": {
+     "line": 222.5,
+     "over": 1.88,
+     "under": 1.94,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909948",
+   "espnId": "401909948",
+   "tipoff": "2026-11-09T00:30Z",
+   "homeAb": "DAL",
+   "awayAb": "BKN",
+   "homeName": "Dallas Mavericks",
+   "awayName": "Brooklyn Nets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.19,
+     "away": 4.54,
+     "sys": true
+    },
+    "spread": {
+     "line": -7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 229.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909949",
+   "espnId": "401909949",
+   "tipoff": "2026-11-09T01:00Z",
+   "homeAb": "MIL",
+   "awayAb": "BOS",
+   "homeName": "Milwaukee Bucks",
+   "awayName": "Boston Celtics",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 5.73,
+     "away": 1.15,
+     "sys": false
+    },
+    "spread": {
+     "line": 12.5,
+     "homeOdds": 1.91,
+     "awayOdds": 1.91,
+     "sys": false
+    },
+    "total": {
+     "line": 222.5,
+     "over": 1.94,
+     "under": 1.88,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909950",
+   "espnId": "401909950",
+   "tipoff": "2026-11-09T02:00Z",
+   "homeAb": "LAC",
+   "awayAb": "NO",
+   "homeName": "LA Clippers",
+   "awayName": "New Orleans Pelicans",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.0,
+     "away": 1.84,
+     "sys": false
+    },
+    "spread": {
+     "line": 1.5,
+     "homeOdds": 1.91,
+     "awayOdds": 1.91,
+     "sys": false
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.91,
+     "under": 1.91,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909951",
+   "espnId": "401909951",
+   "tipoff": "2026-11-09T02:00Z",
+   "homeAb": "SAC",
+   "awayAb": "MIA",
+   "homeName": "Sacramento Kings",
+   "awayName": "Miami Heat",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 3.58,
+     "away": 1.31,
+     "sys": false
+    },
+    "spread": {
+     "line": 8.5,
+     "homeOdds": 1.88,
+     "awayOdds": 1.94,
+     "sys": false
+    },
+    "total": {
+     "line": 238.5,
+     "over": 1.94,
+     "under": 1.88,
+     "sys": false
+    },
+    "quarters": [
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 59.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909952",
+   "espnId": "401909952",
+   "tipoff": "2026-11-10T00:00Z",
+   "homeAb": "ATL",
+   "awayAb": "LAL",
+   "homeName": "Atlanta Hawks",
+   "awayName": "Los Angeles Lakers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.72,
+     "away": 2.08,
+     "sys": true
+    },
+    "spread": {
+     "line": -1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909953",
+   "espnId": "401909953",
+   "tipoff": "2026-11-10T00:00Z",
+   "homeAb": "CHA",
+   "awayAb": "CLE",
+   "homeName": "Charlotte Hornets",
+   "awayName": "Cleveland Cavaliers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 3.91,
+     "away": 1.24,
+     "sys": true
+    },
+    "spread": {
+     "line": 6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909954",
+   "espnId": "401909954",
+   "tipoff": "2026-11-10T00:00Z",
+   "homeAb": "DET",
+   "awayAb": "WSH",
+   "homeName": "Detroit Pistons",
+   "awayName": "Washington Wizards",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909955",
+   "espnId": "401909955",
+   "tipoff": "2026-11-10T00:30Z",
+   "homeAb": "TOR",
+   "awayAb": "MEM",
+   "homeName": "Toronto Raptors",
+   "awayName": "Memphis Grizzlies",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.79,
+     "away": 1.97,
+     "sys": true
+    },
+    "spread": {
+     "line": -1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909956",
+   "espnId": "401909956",
+   "tipoff": "2026-11-10T01:00Z",
+   "homeAb": "DAL",
+   "awayAb": "IND",
+   "homeName": "Dallas Mavericks",
+   "awayName": "Indiana Pacers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909957",
+   "espnId": "401909957",
+   "tipoff": "2026-11-10T01:30Z",
+   "homeAb": "HOU",
+   "awayAb": "DEN",
+   "homeName": "Houston Rockets",
+   "awayName": "Denver Nuggets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909958",
+   "espnId": "401909958",
+   "tipoff": "2026-11-10T02:00Z",
+   "homeAb": "PHX",
+   "awayAb": "SA",
+   "homeName": "Phoenix Suns",
+   "awayName": "San Antonio Spurs",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.52,
+     "away": 2.46,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909959",
+   "espnId": "401909959",
+   "tipoff": "2026-11-10T03:00Z",
+   "homeAb": "GS",
+   "awayAb": "NO",
+   "homeName": "Golden State Warriors",
+   "awayName": "New Orleans Pelicans",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909960",
+   "espnId": "401909960",
+   "tipoff": "2026-11-11T00:30Z",
+   "homeAb": "NY",
+   "awayAb": "MIL",
+   "homeName": "New York Knicks",
+   "awayName": "Milwaukee Bucks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.72,
+     "away": 2.08,
+     "sys": true
+    },
+    "spread": {
+     "line": -1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909961",
+   "espnId": "401909961",
+   "tipoff": "2026-11-11T01:00Z",
+   "homeAb": "PHI",
+   "awayAb": "BOS",
+   "homeName": "Philadelphia 76ers",
+   "awayName": "Boston Celtics",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.32,
+     "away": 1.58,
+     "sys": true
+    },
+    "spread": {
+     "line": 2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909962",
+   "espnId": "401909962",
+   "tipoff": "2026-11-11T02:00Z",
+   "homeAb": "PHX",
+   "awayAb": "LAC",
+   "homeName": "Phoenix Suns",
+   "awayName": "LA Clippers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.64,
+     "away": 2.19,
+     "sys": true
+    },
+    "spread": {
+     "line": -2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909963",
+   "espnId": "401909963",
+   "tipoff": "2026-11-11T02:00Z",
+   "homeAb": "UTAH",
+   "awayAb": "MIA",
+   "homeName": "Utah Jazz",
+   "awayName": "Miami Heat",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.52,
+     "away": 2.46,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 226.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909964",
+   "espnId": "401909964",
+   "tipoff": "2026-11-11T03:00Z",
+   "homeAb": "SAC",
+   "awayAb": "ORL",
+   "homeName": "Sacramento Kings",
+   "awayName": "Orlando Magic",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.08,
+     "away": 1.72,
+     "sys": true
+    },
+    "spread": {
+     "line": 1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 225.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909965",
+   "espnId": "401909965",
+   "tipoff": "2026-11-11T04:00Z",
+   "homeAb": "POR",
+   "awayAb": "OKC",
+   "homeName": "Portland Trail Blazers",
+   "awayName": "Oklahoma City Thunder",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 4.21,
+     "away": 1.21,
+     "sys": true
+    },
+    "spread": {
+     "line": 7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909966",
+   "espnId": "401909966",
+   "tipoff": "2026-11-12T00:00Z",
+   "homeAb": "IND",
+   "awayAb": "WSH",
+   "homeName": "Indiana Pacers",
+   "awayName": "Washington Wizards",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.34,
+     "away": 3.17,
+     "sys": true
+    },
+    "spread": {
+     "line": -5.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909967",
+   "espnId": "401909967",
+   "tipoff": "2026-11-12T00:00Z",
+   "homeAb": "NY",
+   "awayAb": "CLE",
+   "homeName": "New York Knicks",
+   "awayName": "Cleveland Cavaliers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.19,
+     "away": 1.64,
+     "sys": true
+    },
+    "spread": {
+     "line": 2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909968",
+   "espnId": "401909968",
+   "tipoff": "2026-11-12T00:00Z",
+   "homeAb": "TOR",
+   "awayAb": "BOS",
+   "homeName": "Toronto Raptors",
+   "awayName": "Boston Celtics",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.61,
+     "away": 1.47,
+     "sys": true
+    },
+    "spread": {
+     "line": 3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909969",
+   "espnId": "401909969",
+   "tipoff": "2026-11-12T01:00Z",
+   "homeAb": "CHI",
+   "awayAb": "SA",
+   "homeName": "Chicago Bulls",
+   "awayName": "San Antonio Spurs",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.52,
+     "away": 2.46,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 229.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909970",
+   "espnId": "401909970",
+   "tipoff": "2026-11-12T01:00Z",
+   "homeAb": "MEM",
+   "awayAb": "DEN",
+   "homeName": "Memphis Grizzlies",
+   "awayName": "Denver Nuggets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.64,
+     "away": 2.19,
+     "sys": true
+    },
+    "spread": {
+     "line": -2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 231.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909971",
+   "espnId": "401909971",
+   "tipoff": "2026-11-12T01:00Z",
+   "homeAb": "MIL",
+   "awayAb": "LAL",
+   "homeName": "Milwaukee Bucks",
+   "awayName": "Los Angeles Lakers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.42,
+     "away": 2.78,
+     "sys": true
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 229.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909972",
+   "espnId": "401909972",
+   "tipoff": "2026-11-12T01:00Z",
+   "homeAb": "NO",
+   "awayAb": "BKN",
+   "homeName": "New Orleans Pelicans",
+   "awayName": "Brooklyn Nets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.27,
+     "away": 3.64,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 229.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909973",
+   "espnId": "401909973",
+   "tipoff": "2026-11-12T02:00Z",
+   "homeAb": "UTAH",
+   "awayAb": "ORL",
+   "homeName": "Utah Jazz",
+   "awayName": "Orlando Magic",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.88,
+     "away": 1.88,
+     "sys": true
+    },
+    "spread": {
+     "line": -0.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 222.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909974",
+   "espnId": "401909974",
+   "tipoff": "2026-11-12T02:30Z",
+   "homeAb": "HOU",
+   "awayAb": "GS",
+   "homeName": "Houston Rockets",
+   "awayName": "Golden State Warriors",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.24,
+     "away": 3.91,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909975",
+   "espnId": "401909975",
+   "tipoff": "2026-11-12T03:00Z",
+   "homeAb": "POR",
+   "awayAb": "OKC",
+   "homeName": "Portland Trail Blazers",
+   "awayName": "Oklahoma City Thunder",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 4.21,
+     "away": 1.21,
+     "sys": true
+    },
+    "spread": {
+     "line": 7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909976",
+   "espnId": "401909976",
+   "tipoff": "2026-11-13T00:00Z",
+   "homeAb": "PHI",
+   "awayAb": "TOR",
+   "homeName": "Philadelphia 76ers",
+   "awayName": "Toronto Raptors",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.38,
+     "away": 2.97,
+     "sys": true
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909977",
+   "espnId": "401909977",
+   "tipoff": "2026-11-13T00:00Z",
+   "homeAb": "WSH",
+   "awayAb": "DET",
+   "homeName": "Washington Wizards",
+   "awayName": "Detroit Pistons",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909978",
+   "espnId": "401909978",
+   "tipoff": "2026-11-13T01:00Z",
+   "homeAb": "MIN",
+   "awayAb": "DAL",
+   "homeName": "Minnesota Timberwolves",
+   "awayName": "Dallas Mavericks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.38,
+     "away": 2.97,
+     "sys": true
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 226.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909979",
+   "espnId": "401909979",
+   "tipoff": "2026-11-13T02:00Z",
+   "homeAb": "PHX",
+   "awayAb": "CHA",
+   "homeName": "Phoenix Suns",
+   "awayName": "Charlotte Hornets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.19,
+     "away": 4.54,
+     "sys": true
+    },
+    "spread": {
+     "line": -7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909296",
+   "espnId": "401909296",
+   "tipoff": "2026-11-14T00:00Z",
+   "homeAb": "IND",
+   "awayAb": "NY",
+   "homeName": "Indiana Pacers",
+   "awayName": "New York Knicks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.34,
+     "away": 3.17,
+     "sys": true
+    },
+    "spread": {
+     "line": -5.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909297",
+   "espnId": "401909297",
+   "tipoff": "2026-11-14T00:00Z",
+   "homeAb": "ORL",
+   "awayAb": "MIL",
+   "homeName": "Orlando Magic",
+   "awayName": "Milwaukee Bucks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.38,
+     "away": 2.97,
+     "sys": true
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 222.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 55.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909298",
+   "espnId": "401909298",
+   "tipoff": "2026-11-14T01:00Z",
+   "homeAb": "MIA",
+   "awayAb": "CLE",
+   "homeName": "Miami Heat",
+   "awayName": "Cleveland Cavaliers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.08,
+     "away": 1.72,
+     "sys": true
+    },
+    "spread": {
+     "line": 1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909299",
+   "espnId": "401909299",
+   "tipoff": "2026-11-14T01:00Z",
+   "homeAb": "CHI",
+   "awayAb": "ATL",
+   "homeName": "Chicago Bulls",
+   "awayName": "Atlanta Hawks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909300",
+   "espnId": "401909300",
+   "tipoff": "2026-11-14T01:00Z",
+   "homeAb": "NO",
+   "awayAb": "MEM",
+   "homeName": "New Orleans Pelicans",
+   "awayName": "Memphis Grizzlies",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.64,
+     "away": 2.19,
+     "sys": true
+    },
+    "spread": {
+     "line": -2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909301",
+   "espnId": "401909301",
+   "tipoff": "2026-11-14T01:30Z",
+   "homeAb": "HOU",
+   "awayAb": "UTAH",
+   "homeName": "Houston Rockets",
+   "awayName": "Utah Jazz",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.24,
+     "away": 3.91,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909302",
+   "espnId": "401909302",
+   "tipoff": "2026-11-14T02:30Z",
+   "homeAb": "SA",
+   "awayAb": "GS",
+   "homeName": "San Antonio Spurs",
+   "awayName": "Golden State Warriors",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909303",
+   "espnId": "401909303",
+   "tipoff": "2026-11-14T03:00Z",
+   "homeAb": "SAC",
+   "awayAb": "POR",
+   "homeName": "Sacramento Kings",
+   "awayName": "Portland Trail Blazers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.34,
+     "away": 3.17,
+     "sys": true
+    },
+    "spread": {
+     "line": -5.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 232.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909304",
+   "espnId": "401909304",
+   "tipoff": "2026-11-14T03:30Z",
+   "homeAb": "LAC",
+   "awayAb": "OKC",
+   "homeName": "LA Clippers",
+   "awayName": "Oklahoma City Thunder",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 2.61,
+     "away": 1.47,
+     "sys": true
+    },
+    "spread": {
+     "line": 3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909980",
+   "espnId": "401909980",
+   "tipoff": "2026-11-15T00:00Z",
+   "homeAb": "NO",
+   "awayAb": "DEN",
+   "homeName": "New Orleans Pelicans",
+   "awayName": "Denver Nuggets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.88,
+     "away": 1.88,
+     "sys": true
+    },
+    "spread": {
+     "line": -0.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 229.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909981",
+   "espnId": "401909981",
+   "tipoff": "2026-11-15T00:30Z",
+   "homeAb": "CLE",
+   "awayAb": "DAL",
+   "homeName": "Cleveland Cavaliers",
+   "awayName": "Dallas Mavericks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.24,
+     "away": 3.91,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909982",
+   "espnId": "401909982",
+   "tipoff": "2026-11-15T01:00Z",
+   "homeAb": "MIA",
+   "awayAb": "DET",
+   "homeName": "Miami Heat",
+   "awayName": "Detroit Pistons",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.42,
+     "away": 2.78,
+     "sys": true
+    },
+    "spread": {
+     "line": -4.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 226.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909983",
+   "espnId": "401909983",
+   "tipoff": "2026-11-15T01:00Z",
+   "homeAb": "MEM",
+   "awayAb": "BKN",
+   "homeName": "Memphis Grizzlies",
+   "awayName": "Brooklyn Nets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.19,
+     "away": 4.54,
+     "sys": true
+    },
+    "spread": {
+     "line": -7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909984",
+   "espnId": "401909984",
+   "tipoff": "2026-11-15T01:00Z",
+   "homeAb": "MIN",
+   "awayAb": "CHI",
+   "homeName": "Minnesota Timberwolves",
+   "awayName": "Chicago Bulls",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.24,
+     "away": 3.91,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 226.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909985",
+   "espnId": "401909985",
+   "tipoff": "2026-11-15T18:00Z",
+   "homeAb": "PHI",
+   "awayAb": "IND",
+   "homeName": "Philadelphia 76ers",
+   "awayName": "Indiana Pacers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.64,
+     "away": 2.19,
+     "sys": true
+    },
+    "spread": {
+     "line": -2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909986",
+   "espnId": "401909986",
+   "tipoff": "2026-11-15T21:00Z",
+   "homeAb": "PHX",
+   "awayAb": "LAL",
+   "homeName": "Phoenix Suns",
+   "awayName": "Los Angeles Lakers",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.72,
+     "away": 2.08,
+     "sys": true
+    },
+    "spread": {
+     "line": -1.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909987",
+   "espnId": "401909987",
+   "tipoff": "2026-11-15T21:30Z",
+   "homeAb": "LAC",
+   "awayAb": "CHA",
+   "homeName": "LA Clippers",
+   "awayName": "Charlotte Hornets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.12,
+     "away": 5.74,
+     "sys": true
+    },
+    "spread": {
+     "line": -9.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909988",
+   "espnId": "401909988",
+   "tipoff": "2026-11-15T22:00Z",
+   "homeAb": "UTAH",
+   "awayAb": "SA",
+   "homeName": "Utah Jazz",
+   "awayName": "San Antonio Spurs",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.47,
+     "away": 2.61,
+     "sys": true
+    },
+    "spread": {
+     "line": -3.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909989",
+   "espnId": "401909989",
+   "tipoff": "2026-11-15T23:00Z",
+   "homeAb": "BOS",
+   "awayAb": "DAL",
+   "homeName": "Boston Celtics",
+   "awayName": "Dallas Mavericks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.21,
+     "away": 4.21,
+     "sys": true
+    },
+    "spread": {
+     "line": -7.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909990",
+   "espnId": "401909990",
+   "tipoff": "2026-11-15T23:00Z",
+   "homeAb": "TOR",
+   "awayAb": "NY",
+   "homeName": "Toronto Raptors",
+   "awayName": "New York Knicks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.58,
+     "away": 2.32,
+     "sys": true
+    },
+    "spread": {
+     "line": -2.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 228.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909991",
+   "espnId": "401909991",
+   "tipoff": "2026-11-16T00:00Z",
+   "homeAb": "WSH",
+   "awayAb": "HOU",
+   "homeName": "Washington Wizards",
+   "awayName": "Houston Rockets",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.88,
+     "away": 1.88,
+     "sys": true
+    },
+    "spread": {
+     "line": -0.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 227.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 56.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909992",
+   "espnId": "401909992",
+   "tipoff": "2026-11-16T01:00Z",
+   "homeAb": "MIL",
+   "awayAb": "ATL",
+   "homeName": "Milwaukee Bucks",
+   "awayName": "Atlanta Hawks",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 1.27,
+     "away": 3.64,
+     "sys": true
+    },
+    "spread": {
+     "line": -6.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 230.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 57.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  },
+  {
+   "id": "e401909993",
+   "espnId": "401909993",
+   "tipoff": "2026-11-16T02:00Z",
+   "homeAb": "SAC",
+   "awayAb": "OKC",
+   "homeName": "Sacramento Kings",
+   "awayName": "Oklahoma City Thunder",
+   "status": "Scheduled",
+   "lines": {
+    "ml": {
+     "home": 3.39,
+     "away": 1.3,
+     "sys": true
+    },
+    "spread": {
+     "line": 5.5,
+     "homeOdds": 1.9,
+     "awayOdds": 1.9,
+     "sys": true
+    },
+    "total": {
+     "line": 232.5,
+     "over": 1.9,
+     "under": 1.9,
+     "sys": true
+    },
+    "quarters": [
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     },
+     {
+      "line": 58.5,
+      "over": 1.9,
+      "under": 1.9,
+      "sys": true
+     }
+    ]
+   },
+   "result": null,
+   "manual": false
+  }
+ ]
+}
