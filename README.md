@@ -1,5 +1,38 @@
-# virtual-NBA-betting
-a virtual NBA betting stimulator
-data from ESPN
-personally not recommending gambling in real life
-just for fun
+# NBA 虚拟投注实验室 🏀
+
+**警示教育模拟 · Virtual NBA Betting Simulator**
+
+用 **10,000 个虚拟金币**体验体育博彩的完整流程——赔率、水位、单关与串关、结算与破产曲线——在零风险的环境里看懂"为什么长期玩必输"。数据来自 ESPN，仅供娱乐与教育。
+
+> 原作者的话：*"personally not recommending gambling in real life, just for fun."*
+> 所有金币均为虚拟，本应用没有任何真实货币功能；请勿用真实金钱模仿其中的任何行为。
+
+## ✨ 功能
+
+- **赛程获取**：自动拉取 ESPN 赛程数据，或离线导入 `NBA赛程数据包.json`
+- **投注玩法**：单关 / 串关（Parlay），美式赔率自动换算为十进制，含让分与大小分
+- **结算方式**：赛果自动同步（ESPN）、手动录入结算、模拟结算（高斯随机模型）
+- **数据看板**：余额历史曲线、投注统计、胜率与盈亏
+- **警示机制**：余额见底时的"破产"画面——这正是现实中赌场的数学期望在起作用
+- **数据管理**：导出 / 导入 / 一键重置，全部状态保存在浏览器 localStorage
+
+## 🚀 运行
+
+| 方式 | 操作 |
+|---|---|
+| Windows 一键启动 | 双击 `启动软件.bat` |
+| Node.js | `node server.js` |
+| Python | `python server.py` |
+
+启动后会自动打开浏览器访问 `http://127.0.0.1:8137`（端口被占用时自动顺延到 8138–8140）。
+
+**为什么需要本地服务器？** 浏览器从 `file://` 直接请求 ESPN 接口会被 CORS 拦截；本地 HTTP 服务（仅监听 127.0.0.1）让跨域请求稳定可用。关闭命令行窗口即停止服务。
+
+## 📁 文件结构
+
+| 文件 | 说明 |
+|---|---|
+| `NBA虚拟投注实验室.html` | 完整应用（单文件，页面 + 全部逻辑） |
+| `NBA赛程数据包.json` | 离线赛程数据包 |
+| `server.js` / `server.py` | 本地静态服务器（Node 主力 / Python 备用） |
+| `启动软件.bat` | Windows 一键启动脚本 |
